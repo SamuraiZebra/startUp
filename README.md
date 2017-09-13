@@ -1,0 +1,2 @@
+# startUp
+Getting started. 
